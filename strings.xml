@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Ecomon App</string>
-    <string name="email_input">Email</string>
-    <string name="password_input">Password</string>
-    <string name="login_button">Log In</string>
-</resources>
