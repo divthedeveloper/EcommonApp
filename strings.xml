@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ecomon App</string>
+    <string name="email_input">Email</string>
+    <string name="password_input">Password</string>
+    <string name="login_button">Log In</string>
+    <string name="numOfEventsDisplay">No of attempts remaining: </string>
+    <string name="existingDataSets">Existing Data Sets</string>
+    <string name="createANewDataSet">Create A New Data Set</string>
+    <string name="DataSet1">Data Set 1</string>
+    <string name="DataSet2">Data Set 2</string>
+    <string name="DataSet3">Data Set 3</string>
+    <string name="ThirdActivityDataSet1">Data Set 1</string>
+    <string name="LorumIpsumDataTable">Lorem ipsum dolor sit amet, nec id dicat tibique, cum no erat mutat delicatissimi, ei usu praesent accusamus. Quo et falli eruditi, officiis consulatu scribentur usu ex. In meliore abhorreant qui. No cum partem quodsi tacimates, nostrud eruditi sed eu. Mundi erroribus at his.  His legimus vulputate ex. Vis et essent deseruisse, at viris dicam populo vim. Simul omnium sententiae an mel, at quo malis vidisse virtute. Dicunt neglegentur et qui, mei no minim veniam vituperata, senserit partiendo ullamcorper eam ea. Sit dolor fierent vituperata in, in nec cibo tation. Homero nonumes mei in, brute tantas populo eam an.</string>
+</resources>
